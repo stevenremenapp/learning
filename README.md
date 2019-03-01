@@ -1,0 +1,1 @@
+This repo will contain and track the files created for classes I've taken/am taking. Updates to the repo will also indicate the courses I'm working on currently.

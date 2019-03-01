@@ -1,0 +1,46 @@
+<!-- radio button  -->
+<!-- select tag -->
+<!-- textarear tag  -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Inputs Demo</title>
+  </head>
+  <body>
+
+    <p>Do you prefer cats or dogs?</p>
+
+    <form>
+      <label for="dogs">Dogs: </label>
+      <input id="dogs" type="radio" name="petChoice" value="DOGS">
+      <label for="cats">Cats: </label>
+      <input id="cats" type="radio" name="petChoice" value="CATS">
+
+      <p>What's your favorite color?</p>
+      <!-- drop down menu -->
+      <select name="color">
+        <option>Red</option>
+        <option>Orange</option>
+        <option>Yellow</option>
+      </select>
+
+      <p>What's your current mood?</p>
+      <!-- shows use of value below; can't send emoticons as data  -->
+      <select name="mood">
+        <option value="happy">:)</option>
+        <option value="neutral">:|</option>
+        <option value="sad">:()</option>
+      </select>
+
+      <!-- textarea -->
+      <input type="text">
+      <textarea name="paragraph" rows="8" cols="80"></textarea>
+
+      <button>Go!</button>
+    </form>
+
+
+  </body>
+</html>

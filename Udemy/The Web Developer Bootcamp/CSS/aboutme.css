@@ -1,0 +1,18 @@
+h1 {
+  color: #FF8000;
+  border: 5px groove purple;
+}
+
+li {
+  color: green;
+}
+
+h4 {
+  background: #711993;
+}
+
+body {
+  /*background: url(https://s-media-cache-ak0.pinimg.com/736x/28/f2/90/28f2903d018b6dd9d9fc366cd11c4d98.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
