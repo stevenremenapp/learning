@@ -60,6 +60,17 @@ var finalValue = 23;
 if (typeof finalValue == "number") {
     console.log("Final value is a number!");
 }
+//never
+function neverReturns() {
+    throw new Error('An error!');
+}
+//nullable types
+var canBeNull = 12;
+canBeNull = null;
+var canAlsoBeNull;
+canAlsoBeNull = null;
+var canThisBeAny = null;
+canThisBeAny = 12;
 // class Greeter {
 //     greeting: string;
 //     constructor(message: string) {

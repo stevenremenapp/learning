@@ -76,6 +76,18 @@ if (typeof finalValue == "number") {
     console.log("Final value is a number!");
 }
 
+//never
+function neverReturns():never {
+    throw new Error('An error!');
+}
+
+//nullable types
+let canBeNull: number | null = 12;
+canBeNull = null;
+let canAlsoBeNull;
+canAlsoBeNull = null;
+let canThisBeAny = null;
+canThisBeAny = 12;
 
 
 
