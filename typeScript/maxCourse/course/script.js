@@ -43,12 +43,14 @@ var userData = {
 var complex = {
     data: [100, 3.99, 19],
     output: function (argument) {
+        console.log(argument);
         return this.data;
     }
 };
 var complex2 = {
     data: [1, 2, 3],
     output: function (argument) {
+        console.log(argument);
         return this.data;
     }
 };

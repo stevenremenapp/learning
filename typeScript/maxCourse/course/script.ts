@@ -52,6 +52,7 @@ let userData: { name: string, age: number } = {
 let complex: {data: number[], output: (argument: boolean) => number[]} = {
     data: [100, 3.99, 19],
     output: function (argument: boolean): number[] {
+        console.log(argument);
         return this.data;
     }
 };
@@ -62,6 +63,7 @@ type Complex = {data: number[], output: (argument: boolean) => number[]};
 let complex2: Complex = {
     data: [1, 2, 3],
     output: function (argument: boolean): number[] {
+        console.log(argument);
         return this.data;
     }
 };
@@ -86,7 +88,7 @@ let canBeNull: number | null = 12;
 canBeNull = null;
 let canAlsoBeNull;
 canAlsoBeNull = null;
-let canThisBeAny = null;
+let canThisBeAny: number | null = null;
 canThisBeAny = 12;
 
 
