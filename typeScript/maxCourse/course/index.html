@@ -7,6 +7,17 @@
     <title>Document</title>
 </head>
 <body>
-    <script src="classesExercise.js"></script>
+    <script src="node_modules/systemjs/dist/system.js"></script>
+    <script>
+        SystemJS.config({
+            baseURL: '/typeScript/maxCourse/course/modules/',
+            packages: {
+                '/typeScript/maxCourse/course/modules/': {
+                    defaultExtension: 'js'
+                }
+            }
+        });
+        SystemJS.import('modules.js');
+    </script>
 </body>
 </html>
