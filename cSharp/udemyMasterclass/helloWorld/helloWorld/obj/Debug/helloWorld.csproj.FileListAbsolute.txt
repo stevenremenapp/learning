@@ -1,0 +1,7 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\obj\Debug\helloWorld.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
