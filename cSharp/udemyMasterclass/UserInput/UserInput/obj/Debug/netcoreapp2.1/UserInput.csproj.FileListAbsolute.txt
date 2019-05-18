@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\bin\Debug\netcoreapp2.1\UserInput.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\bin\Debug\netcoreapp2.1\UserInput.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\bin\Debug\netcoreapp2.1\UserInput.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\bin\Debug\netcoreapp2.1\UserInput.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\bin\Debug\netcoreapp2.1\UserInput.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\obj\Debug\netcoreapp2.1\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\obj\Debug\netcoreapp2.1\UserInput.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\obj\Debug\netcoreapp2.1\UserInput.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\obj\Debug\netcoreapp2.1\UserInput.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\obj\Debug\netcoreapp2.1\UserInput.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\UserInput\UserInput\obj\Debug\netcoreapp2.1\UserInput.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.pdb

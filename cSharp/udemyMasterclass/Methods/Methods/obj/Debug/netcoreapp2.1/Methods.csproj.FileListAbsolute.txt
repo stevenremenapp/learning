@@ -1,0 +1,10 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.pdb

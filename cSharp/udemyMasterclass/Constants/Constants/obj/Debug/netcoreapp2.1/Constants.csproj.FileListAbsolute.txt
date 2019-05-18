@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\bin\Debug\netcoreapp2.1\Constants.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\bin\Debug\netcoreapp2.1\Constants.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\bin\Debug\netcoreapp2.1\Constants.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\bin\Debug\netcoreapp2.1\Constants.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\bin\Debug\netcoreapp2.1\Constants.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\obj\Debug\netcoreapp2.1\Constants.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\obj\Debug\netcoreapp2.1\Constants.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\obj\Debug\netcoreapp2.1\Constants.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\obj\Debug\netcoreapp2.1\Constants.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\obj\Debug\netcoreapp2.1\Constants.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Constants\Constants\obj\Debug\netcoreapp2.1\Constants.pdb
