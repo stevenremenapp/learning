@@ -1,0 +1,10 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\bin\Debug\netcoreapp2.1\NestedIfStatements.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\bin\Debug\netcoreapp2.1\NestedIfStatements.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\bin\Debug\netcoreapp2.1\NestedIfStatements.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\bin\Debug\netcoreapp2.1\NestedIfStatements.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\bin\Debug\netcoreapp2.1\NestedIfStatements.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\obj\Debug\netcoreapp2.1\NestedIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\obj\Debug\netcoreapp2.1\NestedIfStatements.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\obj\Debug\netcoreapp2.1\NestedIfStatements.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\obj\Debug\netcoreapp2.1\NestedIfStatements.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\NestedIfStatements\NestedIfStatements\obj\Debug\netcoreapp2.1\NestedIfStatements.pdb

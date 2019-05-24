@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\bin\Debug\netcoreapp2.1\IfStatementChallenge.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\bin\Debug\netcoreapp2.1\IfStatementChallenge.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\bin\Debug\netcoreapp2.1\IfStatementChallenge.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\bin\Debug\netcoreapp2.1\IfStatementChallenge.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\bin\Debug\netcoreapp2.1\IfStatementChallenge.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\obj\Debug\netcoreapp2.1\IfStatementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\obj\Debug\netcoreapp2.1\IfStatementChallenge.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\obj\Debug\netcoreapp2.1\IfStatementChallenge.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\obj\Debug\netcoreapp2.1\IfStatementChallenge.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\obj\Debug\netcoreapp2.1\IfStatementChallenge.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge\IfStatementChallenge\obj\Debug\netcoreapp2.1\IfStatementChallenge.csprojAssemblyReference.cache

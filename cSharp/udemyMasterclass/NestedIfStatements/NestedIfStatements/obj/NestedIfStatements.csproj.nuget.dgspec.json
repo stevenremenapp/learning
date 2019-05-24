@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\remen\\Documents\\codingClasses\\cSharp\\udemyMasterclass\\NestedIfStatements\\NestedIfStatements\\NestedIfStatements.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\remen\\Documents\\codingClasses\\cSharp\\udemyMasterclass\\NestedIfStatements\\NestedIfStatements\\NestedIfStatements.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\remen\\Documents\\codingClasses\\cSharp\\udemyMasterclass\\NestedIfStatements\\NestedIfStatements\\NestedIfStatements.csproj",
+        "projectName": "NestedIfStatements",
+        "projectPath": "C:\\Users\\remen\\Documents\\codingClasses\\cSharp\\udemyMasterclass\\NestedIfStatements\\NestedIfStatements\\NestedIfStatements.csproj",
+        "packagesPath": "C:\\Users\\remen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\remen\\Documents\\codingClasses\\cSharp\\udemyMasterclass\\NestedIfStatements\\NestedIfStatements\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\remen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
