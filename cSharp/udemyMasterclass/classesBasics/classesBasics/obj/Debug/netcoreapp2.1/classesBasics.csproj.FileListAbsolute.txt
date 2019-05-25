@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\bin\Debug\netcoreapp2.1\classesBasics.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\bin\Debug\netcoreapp2.1\classesBasics.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\bin\Debug\netcoreapp2.1\classesBasics.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\bin\Debug\netcoreapp2.1\classesBasics.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\bin\Debug\netcoreapp2.1\classesBasics.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\obj\Debug\netcoreapp2.1\classesBasics.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\obj\Debug\netcoreapp2.1\classesBasics.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\obj\Debug\netcoreapp2.1\classesBasics.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\obj\Debug\netcoreapp2.1\classesBasics.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\obj\Debug\netcoreapp2.1\classesBasics.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\classesBasics\classesBasics\obj\Debug\netcoreapp2.1\classesBasics.pdb
