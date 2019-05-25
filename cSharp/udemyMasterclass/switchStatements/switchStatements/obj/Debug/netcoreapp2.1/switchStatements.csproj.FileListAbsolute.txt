@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\bin\Debug\netcoreapp2.1\switchStatements.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\bin\Debug\netcoreapp2.1\switchStatements.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\bin\Debug\netcoreapp2.1\switchStatements.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\bin\Debug\netcoreapp2.1\switchStatements.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\bin\Debug\netcoreapp2.1\switchStatements.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\obj\Debug\netcoreapp2.1\switchStatements.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\obj\Debug\netcoreapp2.1\switchStatements.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\obj\Debug\netcoreapp2.1\switchStatements.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\obj\Debug\netcoreapp2.1\switchStatements.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\obj\Debug\netcoreapp2.1\switchStatements.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\switchStatements\switchStatements\obj\Debug\netcoreapp2.1\switchStatements.pdb

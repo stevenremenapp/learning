@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\bin\Debug\netcoreapp2.1\Ternary.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\bin\Debug\netcoreapp2.1\Ternary.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\bin\Debug\netcoreapp2.1\Ternary.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\bin\Debug\netcoreapp2.1\Ternary.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\bin\Debug\netcoreapp2.1\Ternary.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\obj\Debug\netcoreapp2.1\Ternary.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\obj\Debug\netcoreapp2.1\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\obj\Debug\netcoreapp2.1\Ternary.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\obj\Debug\netcoreapp2.1\Ternary.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\obj\Debug\netcoreapp2.1\Ternary.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Ternary\Ternary\obj\Debug\netcoreapp2.1\Ternary.pdb

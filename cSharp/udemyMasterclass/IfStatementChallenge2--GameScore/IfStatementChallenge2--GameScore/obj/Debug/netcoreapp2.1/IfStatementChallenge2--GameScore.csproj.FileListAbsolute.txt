@@ -1,0 +1,11 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\bin\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.deps.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\bin\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.runtimeconfig.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\bin\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.runtimeconfig.dev.json
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\bin\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\bin\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\obj\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\obj\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\obj\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.AssemblyInfoInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\obj\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.AssemblyInfo.cs
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\obj\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.dll
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\IfStatementChallenge2--GameScore\IfStatementChallenge2--GameScore\obj\Debug\netcoreapp2.1\IfStatementChallenge2--GameScore.pdb
