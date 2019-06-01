@@ -1,0 +1,7 @@
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\remen\Documents\codingClasses\cSharp\udemyMasterclass\Arrays\Arrays\obj\Debug\Arrays.pdb
