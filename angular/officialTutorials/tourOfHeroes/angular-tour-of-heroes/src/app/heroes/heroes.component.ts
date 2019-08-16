@@ -14,11 +14,15 @@ export class HeroesComponent implements OnInit {
 
   ngOnInit() {
     this.getHeroes();
+    () => {console.log(this.heroes);};
   }
 
   getHeroes():void {
     this.heroService.getHeroes()
-      .subscribe(heroes => this.heroes = heroes);
+      .subscribe(heroes => {
+        this.heroes = heroes;
+        console.log(heroes);
+      });
   }
 
   add(name: string):void {
@@ -33,6 +37,7 @@ export class HeroesComponent implements OnInit {
   delete(hero: Hero):void {
     this.heroes = this.heroes.filter(h => h !== hero);
     this.heroService.deleteHero(hero).subscribe();
+    console.log(this.heroes);
   }
 
 }
